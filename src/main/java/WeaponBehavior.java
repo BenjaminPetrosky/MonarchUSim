@@ -1,3 +1,3 @@
 public interface WeaponBehavior {
-    public void useWeapon();
+    void useWeapon();
 }
